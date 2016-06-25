@@ -4,6 +4,7 @@
 <h1>New Email Registered</h1>
 <p>name 		:{{$name}}</p>
 <p>email 		:{{$email}}</p>
+<p>phone 		:{{$phone}}</p>
 <p>occupation	:{{$occupation}}</p>
 </body>
 </html>
